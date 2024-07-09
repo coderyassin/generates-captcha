@@ -1,0 +1,5 @@
+server:
+  port: 6068
+spring:
+  application:
+    name: generates-captcha
